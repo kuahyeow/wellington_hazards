@@ -1,3 +1,25 @@
+You can find all the data in test/fixtures/hazards.csv.
+
+They are from the source pdf files from http://www.stuff.co.nz/dominion-post/local/2957143/Full-list-of-hazards-revealed.
+
+Currently we have the following councils:
+
+* Wellington City Council
+
+* Upper Hutt City Council [TODO]
+
+* Porirua City Council
+
+* Masterton District Council [TODO]
+
+* Kapiti Coast District Council
+
+* Hutt City Council
+
+* Carterton District Council [TODO]
+
+* South Wairarapa District Council [TODO]
+
 HOW THEY'RE GRADED
 
 Contaminated or potentially contaminated sites fit into five categories:
