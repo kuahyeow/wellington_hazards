@@ -1,0 +1,2 @@
+class HccHazard < Hazard
+end

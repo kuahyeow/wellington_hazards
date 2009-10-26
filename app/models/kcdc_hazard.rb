@@ -1,0 +1,2 @@
+class KcdcHazard < Hazard
+end

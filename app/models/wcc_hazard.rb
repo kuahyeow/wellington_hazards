@@ -1,0 +1,2 @@
+class WccHazard < Hazard
+end
