@@ -1,0 +1,2 @@
+class UhccHazard < Hazard
+end

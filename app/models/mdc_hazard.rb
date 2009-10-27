@@ -1,0 +1,2 @@
+class MdcHazard < Hazard
+end
