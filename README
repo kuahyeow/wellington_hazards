@@ -1,5 +1,9 @@
 You can find all the data in test/fixtures/hazards.csv.
 
+KML can be found at: [TODO]
+
+Geocoding done by [TODO]
+
 They are from the source pdf files from http://www.stuff.co.nz/dominion-post/local/2957143/Full-list-of-hazards-revealed.
 
 Currently we have the following councils:

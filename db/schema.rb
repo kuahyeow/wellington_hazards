@@ -9,7 +9,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20091026113138) do
+ActiveRecord::Schema.define(:version => 20091027112153) do
 
   create_table "hazards", :force => true do |t|
     t.string   "no"
@@ -21,6 +21,9 @@ ActiveRecord::Schema.define(:version => 20091026113138) do
     t.datetime "created_at"
     t.datetime "updated_at"
     t.string   "type"
+    t.float    "x"
+    t.float    "y"
+    t.string   "geocoded_address"
   end
 
 end
