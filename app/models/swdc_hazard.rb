@@ -1,0 +1,2 @@
+class SwdcHazard < Hazard
+end

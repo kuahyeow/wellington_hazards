@@ -1,0 +1,2 @@
+class CdcHazard < Hazard
+end
